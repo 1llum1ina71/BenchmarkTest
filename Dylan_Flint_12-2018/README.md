@@ -8,6 +8,7 @@
 Personality Result - Type 1, and taking wings into accound, I am a 1w2
 - - - -
 ### Communication
+This is for the second need regarding the page content request.<br><br>
 Hello,<br><br>
 We’re currently working on the ‘About Us’ page for 24 Hour Fitness. Everything is going great so far. However, we believe the page 
 would be better if some additional content regarding your business was added<br><br>
